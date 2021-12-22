@@ -25,9 +25,13 @@
                 <!--Lateral izquierdo-->
                 <div class="col-md-6" class="flex-box" >
                     <div class="fotoContenedor" class="flex-box" >
-                        <div class="container" style="border: solid 1px red;"> 
-                            <img srcset="./imagenes/imagen-movile.png" class="img-fluid" alt="Imagen de portada"
-                            id="fotoPersonal" >
+                        <div class="container"  id="contenedorFoto"> 
+                            <picture>
+                                <source srcset="./imagenes/imagen-movile-23.jpg" media="(max-width: 720px)">
+                                <source srcset="./imagenes/imagen-movile-23.jpg" media="(max-width: 1280px)">
+                                <source srcset="./imagenes/portadaWeb.jpg">
+                                <img src="./imagenes/portadaWeb.jpg" alt="img portada" id=fotoPersonal class="img-fluid">
+                               </picture>
                         </div>
                         
                     </div>
