@@ -1,0 +1,11 @@
+/* 
+ Autor: Marcelo Martínez
+  Santa Fe, capital
+  Argentina - 2021
+  Inserción del ícono "keyboard"
+*/
+
+
+#desarrollador::after {
+    content: "\2328"
+}

@@ -1,0 +1,24 @@
+/* 
+ Autor: Marcelo Martínez
+  Santa Fe, capital
+  Argentina - 2021
+*/
+
+
+
+
+#contactoTitulo{
+    color: #4d828f;
+    background-color: rgb(235, 235, 235);
+    padding: 8px;
+    margin-bottom: 0;
+}
+#contenedorEnlaces {
+    margin-top: 0;
+    background-color: rgb(235, 235, 235);
+    padding-bottom: 1em;
+}
+#contenedorEnlaces a {
+    text-decoration: none;
+    font-size: 1em;
+}

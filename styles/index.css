@@ -1,0 +1,15 @@
+/* 
+ Autor: Marcelo Martínez
+  Santa Fe, capital
+  Argentina - 2021
+*/
+@import './body.css';
+@import './main.css';
+@import './coTitulos.css';
+@import './co.css';
+@import './habilidadesPrincipalesParrafo.css';
+@import './intereses.css';
+@import './tituloTecnologia.css';
+@import './desarrollador.css';
+/* enlaces del footer */
+@import './footer.css';

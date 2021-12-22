@@ -1,0 +1,28 @@
+/* 
+ Autor: Marcelo Martínez
+  Santa Fe, capital
+  Argentina - 2021
+  Aquí: administrador de los contenedores de los títulos. Nada más.
+*/
+
+
+#CoTitulos {
+    background-color:  #77c7db ;
+    border-radius: 5px;
+    padding: 8px;
+}
+
+@media (max-width: 767.98px) { 
+    #CoTitulos {
+        width: 100%;
+        margin-top: 1em;
+    }
+    
+ }
+
+/* // `lg` applies to medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) { 
+    #CoTitulos {
+        width: 100%;
+    }
+ }

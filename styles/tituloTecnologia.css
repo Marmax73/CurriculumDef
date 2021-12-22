@@ -1,0 +1,24 @@
+/* 
+ Autor: Marcelo Martínez
+  Santa Fe, capital
+  Argentina - 2021
+  NOTA: Esta extensión es necesaria para configurar el título de la 
+  sección tecnología, ya que tiene parámetro margin-top, distinto del
+  resto de los títulos.
+*/
+
+
+
+
+#tecnologia {
+    margin-top: 16em;
+    background-color:  #77c7db ;
+    border-radius: 5px;
+    padding: 8px;
+}
+@media (max-width: 767.98px) { 
+   #tecnologia{
+       margin-top: 1em;
+   }
+    
+ }

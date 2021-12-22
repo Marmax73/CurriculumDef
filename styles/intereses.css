@@ -1,0 +1,54 @@
+/* 
+ Autor: Marcelo Martínez
+  Santa Fe, capital
+  Argentina - 2021
+*/
+
+#seccionIntereses{
+    border: solid 3px #4d828f;
+    border-radius: 5px;
+    padding: 8px;
+    padding-bottom: 4.5em;
+
+}
+#interesesTitulo {
+    color: #4d828f ;
+    font-size: 1.6em;
+}
+/* div límite de los botones */
+#botonIntereses{
+    margin-bottom: 0.6em;
+}
+/* Botones declarados con tag 'a' */
+#botonUno{
+    padding: 10px;
+    border: solid 1px blue;
+    font-size: 1.3em;
+    font-weight: 600;
+    background-image: linear-gradient(#1887a3,#8de6ec);
+    width: 100%;
+}
+#botonDos{
+    padding: 10px;
+    border: solid 1px blue;
+    font-size: 1.3em;
+    font-weight: 600;
+    background-image: linear-gradient(#8de6ec,#8ddd8d);
+    width: 100%;
+}
+#botonTres{
+    padding: 10px;
+    border: solid 1px blue;
+    font-size: 1.3em;
+    font-weight: 600;
+    background-image: linear-gradient(#8ddd8d, #f8c25d);
+    width: 100%;
+}
+#botonCuatro{
+    padding: 10px;
+    border: solid 1px blue;
+    font-size: 1.3em;
+    font-weight: 600;
+    background-image: linear-gradient(#f8c25d, #fad695, #f8f8a7);
+    width: 100%;
+}
