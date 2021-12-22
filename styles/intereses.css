@@ -33,7 +33,7 @@
     border: solid 1px blue;
     font-size: 1.3em;
     font-weight: 600;
-    background-color: black;
+    background-color: rgb(22, 22, 22);
     width: 100%;
 }
 #botonTres{
@@ -41,7 +41,7 @@
     border: solid 1px blue;
     font-size: 1.3em;
     font-weight: 600;
-    background-color: black;
+    background-color: rgb(34, 34, 34);
     width: 100%;
 }
 #botonCuatro{
@@ -49,6 +49,6 @@
     border: solid 1px blue;
     font-size: 1.3em;
     font-weight: 600;
-    background-color: black;
+    background-color: rgb(48, 47, 47);
     width: 100%;
 }
