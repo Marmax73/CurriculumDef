@@ -3,8 +3,10 @@
   Santa Fe, capital
   Argentina - 2021
 */
+
 @import './body.css';
 @import './main.css';
+@import './imagen.css';
 @import './coTitulos.css';
 @import './co.css';
 @import './habilidadesPrincipalesParrafo.css';
