@@ -19,12 +19,18 @@
    #fotoPersonal{
      scale: 1.7;
    }
+   #contenedorFoto{
+     justify-content: center;
+   }
 }
 
 /* // `lg` applies to medium devices (tablets, less than 992px) */
 @media (max-width: 991.98px) {
       #fotoPersonal{
         scale: 1.7;
+      }
+      #contenedorFoto{
+        justify-content: center;
       }
   } 
   
