@@ -1,0 +1,14 @@
+
+/* // `md` applies to small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) { 
+    #desarrollador{
+        width: 90%;
+    }
+ }
+
+/* // `lg` applies to medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) { 
+    #desarrollador{
+        width: 90%;
+    }
+ }
