@@ -8,7 +8,7 @@ const contacto = document.querySelector('#contacto');
 
 function alerta(){
     return(
-        alert="Llamando a Marcelo!"
+        alert="Llamando a Marcelo!" //alerta de ejecución de llamada web
     )
 }
 
