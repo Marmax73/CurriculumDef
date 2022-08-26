@@ -1,0 +1,21 @@
+.platzi-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-color:azure;
+    padding: 10px;
+    
+    
+}
+
+.platziImg {
+    display: flex;
+    max-width: max-content;
+    box-sizing: content-box;
+    margin-left: 5px;
+    
+}
+.platziImg :hover {
+    scale: 1.5;
+    cursor: pointer;
+}
