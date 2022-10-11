@@ -6,7 +6,7 @@
 
 //párrafo habilidades principales
 const p11 = document.createElement('p');
-p11.innerHTML = "Desarrollo de software básico<br>Documentación de proyecto<br>Resolución de problemas<br>Control de versiones"
+p11.innerHTML = "Desarrollo de software básico<br>Documentación de proyecto<br>Control de versiones"
 
 
 
