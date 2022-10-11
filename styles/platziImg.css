@@ -19,3 +19,9 @@
     scale: 1.5;
     cursor: pointer;
 }
+
+.hidden {
+    display: none;
+    width: 50%;
+    height: auto;
+}
