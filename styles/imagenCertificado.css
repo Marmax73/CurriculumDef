@@ -1,0 +1,5 @@
+.imagenCertificado {
+    background-image: url("../imagenes/Diploma-html-practico-tamañoOriginal.png");
+    width: 200px; /* Definir de acuerdo al ancho de la imagen */
+    height: 200px; /* Definir de acuerdo al alto de la imagen */
+}
